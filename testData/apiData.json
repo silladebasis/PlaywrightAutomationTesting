@@ -1,0 +1,13 @@
+{
+    "postPayload": {
+        "firstname": "Jim",
+        "lastname": "Brown",
+        "totalprice": 111,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-01",
+            "checkout": "2045-02-01"
+        },
+        "additionalneeds": "Lunch"
+    }
+}
